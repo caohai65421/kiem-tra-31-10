@@ -1,0 +1,10 @@
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\obj\Debug\kiemtra 31-10.csproj.AssemblyReference.cache
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\obj\Debug\kiemtra_31_10.Form1.resources
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\obj\Debug\kiemtra_31_10.Properties.Resources.resources
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\obj\Debug\kiemtra 31-10.csproj.GenerateResource.cache
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\obj\Debug\kiemtra 31-10.csproj.CoreCompileInputs.cache
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\bin\Debug\kiemtra 31-10.exe.config
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\bin\Debug\kiemtra 31-10.exe
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\bin\Debug\kiemtra 31-10.pdb
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\obj\Debug\kiemtra 31-10.exe
+D:\C#\1\kiemtra 31-10\kiemtra 31-10\obj\Debug\kiemtra 31-10.pdb
